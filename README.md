@@ -3,8 +3,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/
 bogdankotubei-cell/spring-boot-auth-h2)
 
-Простий Spring Boot застосунок з H2 БД для реєстрації та логіну.
-
 ### API
 
 - POST /auth/register
